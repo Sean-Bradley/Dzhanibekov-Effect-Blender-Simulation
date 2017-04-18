@@ -1,7 +1,7 @@
 # Dzhanibekov-Effect-Blender-Simulation
 A .blend file that demonstrates the Dzhanibekov effect.
 
-Create using blender 2.77a
+Created using blender 2.77a
 
 Open it in the blender, game engine mode, to start press 'p' while the mouse is in the 3d view,
 then tap 's' to apply some torque.
