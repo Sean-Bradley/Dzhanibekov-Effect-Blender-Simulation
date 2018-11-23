@@ -8,9 +8,7 @@ then tap 's' to apply some torque.
 
 A youtube tutorial video of it can be seen here, https://youtu.be/kXwS-3Uy3WI
 
-I license this DzhanibekovEffect.blend as CC-BY 2.0
-https://creativecommons.org/licenses/by/2.0/
-Please attribute back to this page if you want to share it.
+MIT License
 
 Thanks
 
